@@ -1,0 +1,7 @@
+transformers
+datasets
+evaluate
+camel_tools
+git+https://github.com/haja-fgabriel/uroman/
+
+pytest
