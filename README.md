@@ -79,21 +79,27 @@ python baseline/transliterate.py $DATASET_ARGS \
 
 ## Citation
 
-This work was introduced in [Data Augmentation for Maltese NLP using Transliterated and Machine Translated Arabic Data](https://arxiv.org/abs/2509.12853).
+This work was introduced in [Data Augmentation for Maltese NLP using Transliterated and Machine Translated Arabic Data](https://doi.org/10.18653/v1/2025.findings-emnlp.1177).
 Cite as follows:
 
 ```bibtex
 @inproceedings{micallef-etal-2025-maltification,
-    title={Data Augmentation for Maltese NLP using Transliterated and Machine Translated Arabic Data}, 
-    author={Kurt Micallef and Nizar Habash and Claudia Borg},
+    title = "Data Augmentation for {M}altese {NLP} using Transliterated and Machine Translated {A}rabic Data",
+    author = "Micallef, Kurt  and
+      Habash, Nizar  and
+      Borg, Claudia",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
     booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
     month = nov,
     year = "2025",
     address = "Suzhou, China",
     publisher = "Association for Computational Linguistics",
-    eprint={2509.12853},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL},
-    url={https://arxiv.org/abs/2509.12853}, 
+    url = "https://aclanthology.org/2025.findings-emnlp.1177/",
+    doi = "10.18653/v1/2025.findings-emnlp.1177",
+    pages = "21580--21590",
+    ISBN = "979-8-89176-335-7",
 }
 ```
